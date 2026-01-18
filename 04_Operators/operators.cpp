@@ -27,6 +27,6 @@ int main() {
     bool and result =a&&b;//false
     bool orResult=a||b;//true
     bool notResult=!a//false
-   return 0;
+ return 0;
 
 }

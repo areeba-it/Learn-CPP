@@ -20,5 +20,6 @@ int main() {
     else {
         grade = 'F';
     }
+    cout<<"Grade"<<grade<<end1;
     return 0;
 }
